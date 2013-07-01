@@ -1,0 +1,12 @@
+Source: ros-hydro-yujin-maps
+Section: misc
+Priority: extra
+Maintainer: "Jihoon Lee <jihoonl@yujinrobot.com>"
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-yujin-maps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: The yujin_maps package
