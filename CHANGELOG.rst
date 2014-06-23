@@ -2,6 +2,11 @@
 Changelog for package yujin_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2014-06-23)
+------------------
+* cropped version of yujin_rnd map
+* Contributors: Jihoon Lee
+
 0.2.0 (2014-06-17)
 ------------------
 * clearing legacy maps `#3 <https://github.com/yujinrobot/yujin_maps/issues/3>`_
