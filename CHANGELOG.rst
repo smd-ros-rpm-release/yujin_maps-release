@@ -2,6 +2,11 @@
 Changelog for package yujin_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2014-08-08)
+------------------
+* lower occupid threshold from 0.65 to 0.55
+* Contributors: Jihoon Lee
+
 0.2.1 (2014-06-23)
 ------------------
 * cropped version of yujin_rnd map
